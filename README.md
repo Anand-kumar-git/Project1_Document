@@ -66,7 +66,7 @@ Branch-based tagging ensures that:
 ## Documentation & Screenshots
 All screenshots are compiled in a single PDF document.  
 
-👉 [Click here to view/download the project document](./Reactjs%20E-commerce%20Application%20-%20Document.pdf)  
+👉 [Click here to view/download the project document](https://github.com/Anand-kumar-git/Project1_Document/raw/main/Reactjs_Ecommerce_Application_Document.pdf)  
 
 ---
 
